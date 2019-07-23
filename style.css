@@ -1,1 +1,28 @@
+body {background-color:blue;
+	color: white;} 
 
+
+a {background-color: red;}
+
+h3 {background-color: black ; }
+.vegetarian{ 
+	color: green;
+	font-size: 20px;
+    font-family: Arial;	}
+
+.non-vegetarian{ color: gray; }
+
+
+ 
+
+.contentf{background-color: #91c9e6; }
+
+.sidebar{background-color: lightblue; }
+
+h1 { height: 60px;
+		width: 100% ;}
+
+
+.container { position: relative;}
+
+				 }
